@@ -1,0 +1,36 @@
+[33mcommit 5807483ce79d729228c134ae13184a2390e1f9f4[m[33m ([m[1;36mHEAD -> [m[1;32minicial[m[33m)[m
+Author: ian <3434ian@gmail.com>
+Date:   Wed May 13 15:37:38 2020 -0300
+
+    criando
+
+[33mcommit 28240462c46f6837f1a927db9257b4754892b677[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: ian <3434ian@gmail.com>
+Date:   Tue May 12 20:31:31 2020 -0300
+
+    teste
+
+[33mcommit eb9df52d1956fb7a6d090587920418b14bf800e0[m
+Merge: 45b5e0d edc9072
+Author: ian <3434ian@gmail.com>
+Date:   Tue May 12 17:37:05 2020 -0300
+
+    Merge branch 'master' of https://github.com/Fantasminha99/projeto
+
+[33mcommit 45b5e0dfe1fe4d909497c3e243c9fcdebb80c149[m
+Author: ian <3434ian@gmail.com>
+Date:   Tue May 12 17:33:16 2020 -0300
+
+    adicionando estrutura html inicial
+
+[33mcommit edc907297f7e01c121ba018cf455f398f48d769a[m
+Author: Fantasminha99 <3434japa@gmail.com>
+Date:   Tue May 12 17:24:37 2020 -0300
+
+    Create README.md
+
+[33mcommit d3e1e0bc0b3801cf888420c17ec167c91de45b70[m
+Author: ian <3434ian@gmail.com>
+Date:   Tue May 12 16:08:59 2020 -0300
+
+    index
